@@ -98,9 +98,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"  height="30" style="margin-right: 12px;"/>
   </a>
-  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" alt="Scala"  height="30" style="margin-right: 12px;"/>
-  </a>
 </div>
 
 ---
